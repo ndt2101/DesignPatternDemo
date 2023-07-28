@@ -1,4 +1,4 @@
-package test;
+package test.data;
 
 public class Passenger {
     private String address;

@@ -1,4 +1,4 @@
-package test;
+package test.data;
 
 public class Ticket {
     private String name;

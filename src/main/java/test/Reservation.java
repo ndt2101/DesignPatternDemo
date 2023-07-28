@@ -1,5 +1,9 @@
 package test;
 
+import test.data.Passenger;
+import test.data.Ticket;
+import test.strategy.IPromoteStrategy;
+
 public class Reservation {
     private IPromoteStrategy strategy;
     private Passenger passenger;

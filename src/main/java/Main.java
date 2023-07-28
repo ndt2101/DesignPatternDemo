@@ -1,8 +1,8 @@
 import test.Reservation;
-import test.Passenger;
-import test.Ticket;
-import test.EightyDiscountStrategy;
-import test.NoDiscountStrategy;
+import test.data.Passenger;
+import test.data.Ticket;
+import test.strategy.impl.EightyDiscountStrategy;
+import test.strategy.impl.NoDiscountStrategy;
 
 public class Main {
     public static void main(String[] args) {
